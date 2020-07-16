@@ -5,5 +5,5 @@ Bachelor of Computer Systems, essentially dedicated to web and mobile programmin
 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, in mind and heart... because the computer can die and it has happened to me :(
 
 <p>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=zeroidentidad.visitor-badge">
+<img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
  <p/>
