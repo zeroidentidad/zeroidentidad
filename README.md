@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Bachelor of Computer Systems, essentially dedicated to web and mobile programming with JS/ES6+. Looking to delve into Golang and be FullStack with React/React Native, studying topics related to modern web development.
+Licenciado en Sistemas Computacionales, dedicado esencialmente a programación web y móvil con JS/ES6+. Buscando profundizar en Golang y ser FullStack con React / React Native, estudiando temas relacionados al desarrollo web moderno.
 
-Saving experiences in blogs, repos, gists, groups, chat servers, online courses, in mind and heart... because the computer can die and it has happened to me :(
+Guardando experiencias en blogs, repos, gists, grupos, chat servers, cursos en línea, mente y corazón... porque la compu puede fallar y me ha pasado :(
 
 <p>
 <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
