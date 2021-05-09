@@ -1,6 +1,6 @@
 ### Hi 👋:shipit:
 
-Degree in Computer Systems. Looking to deepen in Golang complementing stack with PostgreSQL and React.
+Bachelor of Computer Systems. Looking to deepen in Golang complementing stack with PostgreSQL and React.
 
 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart... because the computer can fail and it has happened to me :(
 
