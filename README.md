@@ -1,8 +1,8 @@
 ### Hola 👋:shipit:
 
-Licenciado en Sistemas Computacionales. Buscando profundizar en **Golang** complementando stack con PostgreSQL y React.
+Degree in Computer Systems. Looking to deepen in Golang complementing stack with PostgreSQL and React.
 
-Guardando experiencias en blogs, repos, gists, grupos, chat servers, cursos en línea, mente y corazón... porque la compu puede fallar y me ha pasado :(
+Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart... because the computer can fail and it has happened to me :(
 
 <p align="center">
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
