@@ -1,4 +1,4 @@
-### Hola 👋:shipit:
+### Hi 👋:shipit:
 
 Degree in Computer Systems. Looking to deepen in Golang complementing stack with PostgreSQL and React.
 
