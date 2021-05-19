@@ -13,4 +13,6 @@ Saving experiences in blogs, repos, gists, groups, chat servers, online courses,
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=10&hide=css,scss,html,java,kotlin,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B" width="400"/>
 </p>
 
-Social media: [awebytes.wordpress.com/zeroidentidad](https://awebytes.wordpress.com/zeroidentidad)
+Social media:
+
+[awebytes.wordpress.com/zeroidentidad](https://awebytes.wordpress.com/zeroidentidad)
