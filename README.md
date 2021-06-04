@@ -1,10 +1,12 @@
 ### Hi 👋:shipit:
 
-Bachelor of Computer Systems. Looking to deepen in Golang complementing stack with PostgreSQL and React.
+👀 I'm not Junior, Semi Senior, or Senior software developer. Just I'm a simple coder that like Golang and do stuffs on web.
 
-Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart... because the computer can fail and it has happened to me :(
+📍 Bachelor of Computer Systems. Looking to deepen in Golang complementing stack with PostgreSQL and React.
 
-Media: [awebytes.wordpress.com/zeroidentidad](https://awebytes.wordpress.com/zeroidentidad)
+🔖 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart... because the computer can fail and it has happened to me :(
+
+🌐 Media: [awebytes.wordpress.com/zeroidentidad](https://awebytes.wordpress.com/zeroidentidad)
 
 <p align="center">
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
