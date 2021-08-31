@@ -1,8 +1,8 @@
 ### Hi 👋:shipit:
 
-👀 I'm not Junior, Semi Senior, or Senior software developer. Just I'm a simple coder that like Golang and do stuffs on web.
+👀 Just I'm a simple coder that like Golang and do stuffs on web.
 
-🔖 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart... because the computer can fail and it has happened to me :(
+🔖 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart. 
 
 🌐 Media: [awebytes.wordpress.com/zeroidentidad](https://awebytes.wordpress.com/zeroidentidad)
 
