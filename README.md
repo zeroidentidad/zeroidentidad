@@ -4,7 +4,7 @@
 
 🔖 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart. 
 
-🌐 Media: [awebytes.wordpress.com/zeroidentidad](https://awebytes.wordpress.com/zeroidentidad)
+🌐 Media: [zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com)
 
 <p align="center">
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
