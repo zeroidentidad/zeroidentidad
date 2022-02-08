@@ -14,3 +14,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark" width="370">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=10&hide=css,scss,html,java,kotlin,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B" width="370"/>  
 </p>
+
+- Stuffs list for work and learn [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
