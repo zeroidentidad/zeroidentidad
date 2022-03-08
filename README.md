@@ -1,5 +1,3 @@
-### Hi 👋:shipit:
-
 👀 Just I'm a simple coder that like Golang and do stuffs on web.
 
 🔖 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart. 
@@ -7,6 +5,7 @@
 🌐 Media: [zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com)
 
 <p align="center">
+  👋:shipit:
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
 </p>
 
