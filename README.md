@@ -2,7 +2,7 @@
 
 🔖 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart. 
 
-🌐 Media: [zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com)
+🌐 Media: **[zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com)**
 
 <p align="center">
   👋:shipit:
@@ -19,4 +19,4 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://emberjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" alt="emberjs" width="40" height="40"/> </a>
 
-- Stuffs list for work and learn [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
+- **Stuffs list for current my work and learn path** [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
