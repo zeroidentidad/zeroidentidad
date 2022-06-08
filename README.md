@@ -19,4 +19,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://emberjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" alt="emberjs" width="40" height="40"/> </a>
 
+- Learning about:
+<a href="https://roku.com" target="_blank"> <img src="https://symbols.getvecta.com/stencil_94/100_roku.3b82187dab.svg" alt="roku tv" width="40" height="40"/> </a>
+<a href="https://developer.amazon.com/es-ES/alexa" target="_blank"> <img src="https://symbols.getvecta.com/stencil_15/0_alexa-skill.fdb036993a.svg" alt="alexa skill" width="40" height="40"/> </a>
+
 - **Stuffs list for current my work and learn path** [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
