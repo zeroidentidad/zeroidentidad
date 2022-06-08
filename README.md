@@ -23,4 +23,4 @@
 <a href="https://developer.roku.com" target="_blank"> <img src="https://symbols.getvecta.com/stencil_94/100_roku.3b82187dab.svg" alt="roku tv" width="40" height="40"/> </a>
 <a href="https://developer.amazon.com/es-ES/alexa" target="_blank"> <img src="https://symbols.getvecta.com/stencil_15/0_alexa-skill.fdb036993a.svg" alt="alexa skill" width="40" height="40"/> </a>
 
-- **Stuffs list for current my work and learn path** [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
+- **Stuffs list for my current work and learn path** [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
