@@ -14,17 +14,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=10&hide=css,scss,html,java,kotlin,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B" width="370"/>  
 </p>
 
-- [ Working with ] &nbsp;&nbsp;
+- **Working with** &nbsp;&nbsp;
 <a href="https://go.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://emberjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" alt="emberjs" width="40" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/> </a>
 
-- [ Learning about ] &nbsp;&nbsp;
+- **Learning about** &nbsp;&nbsp;
 <a href="https://developer.roku.com" target="_blank"> <img src="https://symbols.getvecta.com/stencil_94/100_roku.3b82187dab.svg" alt="roku tv" width="40" height="40"/> </a>
 <a href="https://developer.amazon.com/es-ES/alexa" target="_blank"> <img src="https://symbols.getvecta.com/stencil_15/0_alexa-skill.fdb036993a.svg" alt="alexa skill" width="40" height="40"/> </a>
 <a href="https://aurelia.io" target="_blank"> <img src="https://aurelia.io/styles/images/aurelia-icon.svg" alt="aureliajs" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 
-- **Stuffs list for my current work and learn path** [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
+*Some stuff's list of current work and learning path* [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
