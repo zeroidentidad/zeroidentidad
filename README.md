@@ -1,4 +1,4 @@
-👀 Just I'm a simple coder that like Golang and do stuffs on web.
+👀 I'm a simple coder that like Golang and do stuffs on web.
 
 🔖 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart. 
 
