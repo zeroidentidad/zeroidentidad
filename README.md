@@ -27,7 +27,7 @@
 
 - **Learning about** &nbsp;&nbsp;
 <a href="https://developer.roku.com" target="_blank"> <img src="https://symbols.getvecta.com/stencil_94/100_roku.3b82187dab.svg" alt="roku tv" width="40" height="40"/> </a>
-<a href="https://developer.amazon.com/es-ES/alexa" target="_blank"> <img src="https://symbols.getvecta.com/stencil_15/0_alexa-skill.fdb036993a.svg" alt="alexa skill" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://aurelia.io" target="_blank"> <img src="https://aurelia.io/styles/images/aurelia-icon.svg" alt="aureliajs" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 
