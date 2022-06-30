@@ -33,4 +33,6 @@
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-*Some stuff's list of current work and learning path* [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
+- *Some stuff's list of current work and learning path* [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
+
+- [g.dev badges 🛡️](https://g.dev/zeroidentidad)
