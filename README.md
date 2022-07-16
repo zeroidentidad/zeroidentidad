@@ -4,7 +4,7 @@
 
 🔖 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart. 
 
-🌐 Media: **[zeroidentidad.wp.com](https://zeroidentidad.wordpress.com)**
+🌐 Media: **[zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com)**
 
 <p align="center">
   👋:shipit:
