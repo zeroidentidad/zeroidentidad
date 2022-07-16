@@ -13,7 +13,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark" width="370">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=10&hide=css,scss,html,java,kotlin,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B" width="370"/>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=10&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B" width="370"/>  
 </p>
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
@@ -33,6 +33,4 @@
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-- *Some stuff's list of current work and learning path* [⭐️ Stars](https://github.com/zeroidentidad?tab=stars)
-
-- [g.dev badges 🛡️](https://g.dev/zeroidentidad)
+- *Some stuff's list of current work and learning path* [⭐️ stars](https://github.com/zeroidentidad?tab=stars) | [g.dev 🛡️](https://g.dev/zeroidentidad)
