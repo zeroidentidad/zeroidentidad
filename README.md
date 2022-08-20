@@ -7,7 +7,7 @@
 🌐 Media: **[zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com)**
 
 <p align="center">
-  👋:shipit:
+  <img src="./img/hi.gif" width="18px">:shipit: &nbsp;&nbsp;
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
 </p>
 
