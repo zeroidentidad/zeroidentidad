@@ -19,17 +19,17 @@
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 - **Working with** &nbsp;&nbsp;
-<a href="https://go.dev" target="_blank"> <img src="./go.svg" alt="go" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./js.svg" alt="js" height="40"/> </a>
-<a href="https://emberjs.com" target="_blank"> <img src="./ember.svg" alt="emberjs" height="40"/> </a>
-<a href="https://mysql.com" target="_blank"> <img src="./mysql.svg" alt="mysql" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank"> <img src="./googlecloud.svg" alt="google cloud" height="40"/> </a>
-<a href="https://algolia.com" target="_blank"> <img src="./algolia.svg" alt="algolia" height="40"/> </a>
+<a href="https://go.dev" target="_blank"> <img src="./img/go.svg" alt="go" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./img/js.svg" alt="js" height="40"/> </a>
+<a href="https://emberjs.com" target="_blank"> <img src="./img/ember.svg" alt="emberjs" height="40"/> </a>
+<a href="https://mysql.com" target="_blank"> <img src="./img/mysql.svg" alt="mysql" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank"> <img src="./img/googlecloud.svg" alt="google cloud" height="40"/> </a>
+<a href="https://algolia.com" target="_blank"> <img src="./img/algolia.svg" alt="algolia" height="40"/> </a>
 
 - **Learning about** &nbsp;&nbsp;
-<a href="https://developer.roku.com" target="_blank"> <img src="./roku.svg" alt="roku tv" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="./android.svg" alt="android" height="40"/> </a>
-<a href="https://docs.aurelia.io" target="_blank"> <img src="./aurelia.svg" alt="aureliajs" height="40"/> </a>
+<a href="https://developer.roku.com" target="_blank"> <img src="./img/roku.svg" alt="roku tv" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="./img/android.svg" alt="android" height="40"/> </a>
+<a href="https://docs.aurelia.io" target="_blank"> <img src="./img/aurelia.svg" alt="aureliajs" height="40"/> </a>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
