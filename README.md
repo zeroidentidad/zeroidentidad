@@ -20,7 +20,7 @@
 
 - **Working with** &nbsp;&nbsp;
 <a href="https://go.dev" target="_blank"> <img src="./img/go.svg" alt="go" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./img/js.svg" alt="js" height="40"/> </a>
+<a href="https://developer.mozilla.org/docs/JavaScript" target="_blank"> <img src="./img/js.svg" alt="js" height="40"/> </a>
 <a href="https://emberjs.com" target="_blank"> <img src="./img/ember.svg" alt="emberjs" height="40"/> </a>
 <a href="https://mysql.com" target="_blank"> <img src="./img/mysql.svg" alt="mysql" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="./img/googlecloud.svg" alt="google cloud" height="40"/> </a>
