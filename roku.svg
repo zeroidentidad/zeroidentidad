@@ -1,0 +1,19 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>roku</title>
+ <defs>
+  <linearGradient id="linearGradient2198">
+   <stop stop-color="#767676" offset="0" id="stop2218"/>
+   <stop stop-color="#bbbbbb" id="stop2220" offset="0.666667"/>
+   <stop stop-color="#dfdfdf" id="stop2202" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="-0.689095" x2="-13.194589" y1="-0.689095" x1="-13.328578" spreadMethod="reflect" gradientTransform="translate(581.82024,-155.61373)" id="linearGradient2597" xlink:href="#linearGradient2198"/>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <path fill="#3f007f" fill-rule="nonzero" stroke="url(#linearGradient2597)" stroke-width="2" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m113,24.999989l171.654938,0c70.042023,0.000443 123.993073,11.299679 161.855621,33.898014c37.861389,22.598984 56.792297,55.020897 56.792297,97.265816c0,21.967209 -8.258301,42.877182 -24.772705,62.729691c-16.516113,19.852921 -38.153564,34.639328 -64.911865,44.35939l153.723206,161.581177l-142.619507,32.95047l-172.51593,-198.959839l0,186.274689l-139.206055,12.68515l0,-432.784557zm244.268799,145.105907c0,-16.475006 -8.258392,-29.782104 -24.773315,-39.921631c-16.515564,-10.138733 -36.164032,-15.208344 -58.943024,-15.208542l-21.346405,1.27623l0,115.326736l25.62085,2.533157c22.206177,0.000198 40.998291,-6.339096 56.375854,-19.018204c15.376923,-12.678421 23.06604,-27.674271 23.06604,-44.987747l0,0z" id="path2609"/>
+  </g>
+  <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="698" x="787" stroke-width="0" stroke="#000000" fill="#000000"/>
+ </g>
+</svg>
