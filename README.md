@@ -29,7 +29,7 @@
 - **Learning about** &nbsp;&nbsp;
 <a href="https://developer.roku.com" target="_blank"> <img src="./roku.svg" alt="roku tv" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank"> <img src="./android.svg" alt="android" height="40"/> </a>
-<a href="https://aurelia.io" target="_blank"> <img src="./aurelia.svg" alt="aureliajs" height="40"/> </a>
+<a href="https://docs.aurelia.io" target="_blank"> <img src="./aurelia.svg" alt="aureliajs" height="40"/> </a>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
