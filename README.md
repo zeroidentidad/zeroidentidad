@@ -19,14 +19,14 @@
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 <p align="center">
-<span>&nbsp;- <b>Working with</b>&nbsp;&nbsp;</span>
+<span>&nbsp;🔳 <b>Working with</b>&nbsp;&nbsp;</span>
 <a href="https://go.dev" target="_blank"> <img src="./img/go.svg" alt="go" height="25"/> </a>
 <a href="https://developer.mozilla.org/docs/JavaScript" target="_blank"> <img src="./img/js.svg" alt="js" height="25"/> </a>
 <a href="https://emberjs.com" target="_blank"> <img src="./img/ember.svg" alt="emberjs" height="25"/> </a>
 <a href="https://mysql.com" target="_blank"> <img src="./img/mysql.svg" alt="mysql" height="25"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="./img/googlecloud.svg" alt="google cloud" height="25"/> </a>
 <a href="https://algolia.com" target="_blank"> <img src="./img/algolia.svg" alt="algolia" height="25"/> </a>
-<span>&nbsp;- <b>Learning about</b>&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;🔳 <b>Learning about</b>&nbsp;&nbsp;</span>
 <a href="https://developer.roku.com" target="_blank"> <img src="./img/roku.svg" alt="roku tv" height="25"/> </a>
 <a href="https://developer.android.com" target="_blank"> <img src="./img/android.svg" alt="android" height="25"/> </a>
 <a href="https://docs.aurelia.io" target="_blank"> <img src="./img/aurelia.svg" alt="aureliajs" height="25"/> </a>
