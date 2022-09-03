@@ -1,11 +1,9 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-```md
+```txt
 👀 I'm a simple coder that like Golang and do stuffs on web.
-
 🔖 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart. 
-
-🌐 Media: **https://zeroidentidad.wordpress.com**
+🌐 Media: zeroidentidad.wordpress.com
 ```
 
 <p align="center">
