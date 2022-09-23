@@ -1,8 +1,7 @@
 <p align="center">
 <img src="./img/songolangx3.png" width="80%">
-</p>
-
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+</p>
 
 ```txt
 👀 I'm a simple coder that like Golang and do stuffs on web.
