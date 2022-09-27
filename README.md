@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/songolangx3.png" width="80%">
+<img src="./img/songolangx3.png" width="70%">
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 </p>
 
@@ -31,7 +31,6 @@
 <a href="https://algolia.com" target="_blank"> <img src="./img/algolia.svg" alt="algolia" height="25"/> </a>
 <span>&nbsp;&nbsp;🔳 <b>Learning about</b>&nbsp;&nbsp;</span>
 <a href="https://developer.roku.com" target="_blank"> <img src="./img/roku.svg" alt="roku tv" height="25"/> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="./img/android.svg" alt="android" height="25"/> </a>
 <a href="https://docs.aurelia.io" target="_blank"> <img src="./img/aurelia.svg" alt="aureliajs" height="25"/> </a>
 </p>
 
