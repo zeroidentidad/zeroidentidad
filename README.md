@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark&count_private=true&hide=stars" width="360">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=10&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript" width="360"/>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&custom_title=zeroidentidad" height="150">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=5&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript" height="150"/>  
 </p>
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
@@ -39,4 +39,9 @@
 
 - ```Some stuff's list of current work and learning path``` [🗒️ gists](https://gist.github.com/zeroidentidad) | [⭐️ stars](https://github.com/zeroidentidad?tab=stars) | [g.dev 🛡️](https://g.dev/zeroidentidad)
 
-![Contrib](https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg)
+<img align="center" src="https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg" width="100%">
+
+<p align="center">
+<a href="https://github.com/gophers-latam/awesome-latam" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=gophers-latam&theme=dark&repo=awesome-latam" alt="go" height="150"/> </a>
+<a href="https://github.com/gophers-latam/gophers-latam.github.io" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=gophers-latam&theme=dark&repo=gophers-latam.github.io" alt="js" height="150"/> </a>
+</p>
