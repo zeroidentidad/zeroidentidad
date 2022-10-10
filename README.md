@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/songolangx3.png" width="70%">
+<img src="./img/songolangx3.png" width="50%">
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 </p>
 
