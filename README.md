@@ -1,7 +1,14 @@
+
 <p align="center">
-<img src="./img/songolangx3.png" width="40%">
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+ <a href="https://discord.com/users/519937775651258379">
+   <code>
+     <img src="https://discord.c99.nl/widget/theme-1/519937775651258379.png" height="80" />
+     <img src="./img/songolangx3.png" height="80">
+   </code>
+ </a>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">  
 </p>
+
 
 ```txt
 👀 I'm a simple coder that like Golang and do stuffs on web.
@@ -43,12 +50,4 @@
 <p align="center">
 <a href="https://github.com/gophers-latam/awesome-latam" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=gophers-latam&theme=dark&repo=awesome-latam" alt="go" height="145"/> </a>
 <a href="https://github.com/gophers-latam/gophers-latam.github.io" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=gophers-latam&theme=dark&repo=gophers-latam.github.io" alt="js" height="145"/> </a>
-</p>
-
-<p align="center">
-  <a href="https://discord.com/users/519937775651258379">
-    <code>
-      <img src="https://discord.c99.nl/widget/theme-1/519937775651258379.png" height="80" />
-    </code>
-  </a>
 </p>
