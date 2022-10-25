@@ -41,12 +41,7 @@
 
 <img align="center" src="https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg" width="100%">
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&custom_title=zeroidentidad" height="130">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=5&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript" height="130"/>  
-</p>
 
-<p align="center">
-<a href="https://github.com/gophers-latam/awesome-latam" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=gophers-latam&theme=dark&repo=awesome-latam" alt="go" height="145"/> </a>
-<a href="https://github.com/gophers-latam/gophers-latam.github.io" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=gophers-latam&theme=dark&repo=gophers-latam.github.io" alt="js" height="145"/> </a>
-</p>
+- [🗒️ Idea ternary helper in Go](https://gist.github.com/zeroidentidad/5d0fdbd992b404abf017814962897891)
+
+- [🗒️ API endpoint custom intermediary processor of locations in Mexico via INEGI Gaia webservice](https://gist.github.com/00392cabe715b581be60069bde8b0ea5)
