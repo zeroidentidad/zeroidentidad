@@ -15,9 +15,9 @@
 </p>
 
 ```txt
-👀 I'm a simple coder that like Golang and do stuffs on web.
-🔖 Saving experiences in blogs, repos, gists, groups, chat servers, online courses, mind and heart. 
-🌐 Media: zeroidentidad.wordpress.com
+👀 I'ᴍ ᴀ sɪᴍᴘʟᴇ ᴄᴏᴅᴇʀ ᴛʜᴀᴛ ʟɪᴋᴇ Gᴏʟᴀɴɢ ᴀɴᴅ ᴅᴏ sᴛᴜғғs ᴏɴ ᴡᴇʙ.
+🔖 Sᴀᴠɪɴɢ ᴇxᴘᴇʀɪᴇɴᴄᴇs ɪɴ ʙʟᴏɢs, ʀᴇᴘᴏs, ɢɪsᴛs, ɢʀᴏᴜᴘs, ᴄʜᴀᴛ sᴇʀᴠᴇʀs, ᴏɴʟɪɴᴇ ᴄᴏᴜʀsᴇs, ᴍɪɴᴅ ᴀɴᴅ ʜᴇᴀʀᴛ. 
+🌐 Mᴇᴅɪᴀ: ᴢᴇʀᴏɪᴅᴇɴᴛɪᴅᴀᴅ.ᴡᴏʀᴅᴘʀᴇss.ᴄᴏᴍ
 ```
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
