@@ -50,8 +50,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&custom_title=zeroidentidad" height="130">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=5&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript" height="130"/>  
 </p>
-
-<p align="center">
-<a href="https://github.com/gophers-latam/awesome-latam" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=gophers-latam&theme=dark&repo=awesome-latam" alt="go" height="145"/> </a>
-<a href="https://github.com/gophers-latam/gophers-latam.github.io" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=gophers-latam&theme=dark&repo=gophers-latam.github.io" alt="js" height="145"/> </a>
-</p>
