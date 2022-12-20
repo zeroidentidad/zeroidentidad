@@ -1,10 +1,8 @@
 
 <p align="center">
  <a href="https://discord.com/users/519937775651258379">
-   <code>
-     <img src="https://discord.c99.nl/widget/theme-1/519937775651258379.png" height="80" />
-     <img src="./img/songolangx3.png" height="80">
-   </code>
+     <img src="https://discord.c99.nl/widget/theme-1/519937775651258379.png" height="75px" />
+     <img src="./img/songolangx3.png" height="75px">
  </a>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">  
 </p>
