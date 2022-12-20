@@ -45,6 +45,8 @@
 
 - [🗒️ API endpoint custom intermediary processor of locations in Mexico via INEGI Gaia webservice](https://gist.github.com/00392cabe715b581be60069bde8b0ea5)
 
+- [🗒️ Official and unofficial compilation of slice tricks in Go]([https://gist.github.com/00392cabe715b581be60069bde8b0ea5](https://gist.github.com/zeroidentidad/5341635960acb66c904ad4fb32dfa703#file-go-slicetricks-md))
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&custom_title=zeroidentidad" height="130">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=5&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript" height="130"/>  
