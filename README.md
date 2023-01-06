@@ -36,7 +36,7 @@
 
 - ```Some stuff's list of current work and learning path``` [🗒️ gists](https://gist.github.com/zeroidentidad) | [⭐️ stars](https://github.com/zeroidentidad?tab=stars) | [🛡️ g.dev](https://g.dev/zeroidentidad)
 
-<img align="center" src="https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg" width="100%">
+<!--<img align="center" src="https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg" height="100%">-->
 
 
 - [🗒️ Idea ternary helper in Go](https://gist.github.com/zeroidentidad/5d0fdbd992b404abf017814962897891)
