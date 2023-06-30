@@ -30,8 +30,6 @@
 <a href="https://cloud.google.com" target="_blank"> <img src="./img/googlecloud.svg" alt="google cloud" height="25"/> </a>
 <span>&nbsp;&nbsp;&nbsp;☑️ <b>Learning about:</b>&nbsp;&nbsp;</span>
 <a href="https://docs.aurelia.io" target="_blank"> <img src="./img/aurelia.svg" alt="aureliajs" height="25"/> </a>
-<!--<a href="https://developer.roku.com" target="_blank"> <img src="./img/roku.svg" alt="roku tv" height="25"/> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="./img/android.svg" alt="android" height="25"/> </a>-->
 </p>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
@@ -40,12 +38,13 @@
 
 <!--<img align="center" src="https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg" height="100%">-->
 
-
 - [🗒️ Idea ternary helper in Go](https://gist.github.com/zeroidentidad/5d0fdbd992b404abf017814962897891)
 
 - [🗒️ Custom API endpoint as intermediary processor for locations in México via INEGI Gaia](https://gist.github.com/00392cabe715b581be60069bde8b0ea5)
 
 - [🗒️ Official & unofficial slice tricks in Go](https://gist.github.com/zeroidentidad/5341635960acb66c904ad4fb32dfa703#file-go-slicetricks-md)
+
+- [🖤 (Wattpad) **Zero Golang Notes**...](https://www.wattpad.com/story/338549436-zero-golang-notes)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&custom_title=zeroidentidad" height="130">
