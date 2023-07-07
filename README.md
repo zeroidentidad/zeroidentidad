@@ -28,8 +28,9 @@
 <a href="https://developer.mozilla.org/docs/JavaScript" target="_blank"> <img src="./img/js.svg" alt="js" height="15"/> </a>
 <a href="https://mysql.com" target="_blank"> <img src="./img/mysql.svg" alt="mysql" height="25"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="./img/googlecloud.svg" alt="google cloud" height="25"/> </a>
-<span>&nbsp;&nbsp;&nbsp;☑️ <b>Learning about:</b>&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;☑️ <b>Learning:</b>&nbsp;&nbsp;</span>
 <a href="https://docs.aurelia.io" target="_blank"> <img src="./img/aurelia.svg" alt="aureliajs" height="25"/> </a>
+ <a href="https://go.dev" target="_blank"> <img src="./img/go.svg" alt="go" height="25"/> </a>
 </p>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
@@ -44,7 +45,7 @@
 
 - [🗒️ Official & unofficial slice tricks in Go](https://gist.github.com/zeroidentidad/5341635960acb66c904ad4fb32dfa703#file-go-slicetricks-md)
 
-- [🖤 (Wattpad) **Zero Golang Notes**...](https://www.wattpad.com/story/338549436-zero-golang-notes)
+- [🖤 [Wattpad] **Zero Golang Notes**...](https://www.wattpad.com/story/338549436-zero-golang-notes)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&custom_title=zeroidentidad" height="130">
