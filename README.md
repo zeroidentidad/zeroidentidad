@@ -35,7 +35,7 @@
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-- ```Some stuff's list of current work and learning path``` [🗒️Gists](https://gist.github.com/zeroidentidad) | [⭐️Stars](https://github.com/zeroidentidad?tab=stars) | [🛡️ g.dev](https://g.dev/zeroidentidad)
+- ```Some stuff's list of current work and learning path``` [🗒️**Gists**](https://gist.github.com/zeroidentidad) | [⭐️**Stars**](https://github.com/zeroidentidad?tab=stars) | [🛡️ **g.dev**](https://g.dev/zeroidentidad)
 
 <!--<img align="center" src="https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg" height="100%">-->
 
