@@ -35,15 +35,9 @@
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-- ```Some stuff's list of current work and learning path``` [🗒️ gists](https://gist.github.com/zeroidentidad) | [⭐️ stars](https://github.com/zeroidentidad?tab=stars) | [🛡️ g.dev](https://g.dev/zeroidentidad)
+- ```Some stuff's list of current work and learning path``` [🗒️Gists](https://gist.github.com/zeroidentidad) | [⭐️Stars](https://github.com/zeroidentidad?tab=stars) | [🛡️ g.dev](https://g.dev/zeroidentidad)
 
 <!--<img align="center" src="https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg" height="100%">-->
-
-- [🗒️ Idea ternary helper in Go](https://gist.github.com/zeroidentidad/5d0fdbd992b404abf017814962897891)
-
-- [🗒️ Custom API endpoint as intermediary processor for locations in México via INEGI Gaia](https://gist.github.com/00392cabe715b581be60069bde8b0ea5)
-
-- [🗒️ Official & unofficial slice tricks in Go](https://gist.github.com/zeroidentidad/5341635960acb66c904ad4fb32dfa703#file-go-slicetricks-md)
 
 - [🖤 [Wattpad] **Zero Golang Notes**...](https://www.wattpad.com/story/338549436-zero-golang-notes)
 
