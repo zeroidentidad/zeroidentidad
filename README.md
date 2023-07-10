@@ -14,7 +14,7 @@
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
 </p>
 
-```txt
+```go
 👀 I'm a simple coder that like Golang and do stuffs on web.
 🌐 Media: https://zeroidentidad.wordpress.com
 ```
@@ -37,11 +37,16 @@
 
 - ```Some stuff's list of current work and learning path``` [🗒️**Gists**](https://gist.github.com/zeroidentidad) | [⭐️**Stars**](https://github.com/zeroidentidad?tab=stars) | [🛡️ **g.dev**](https://g.dev/zeroidentidad)
 
-<!--<img align="center" src="https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg" height="100%">-->
+<!--
+<img align="center" src="https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg" height="100%">
+-->
 
-- [🖤 [Wattpad] **Zero Golang Notes**...](https://www.wattpad.com/story/338549436-zero-golang-notes)
+- [🧡 [Wattpad] **Zero Golang Notes**...](https://www.wattpad.com/story/338549436-zero-golang-notes)
+- [💙 [Posts] **gophers-latam.github.io**...](https://gophers-latam.github.io/posts)
 
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&custom_title=zeroidentidad" height="130">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=5&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript" height="130"/>  
 </p>
+-->
