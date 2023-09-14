@@ -25,7 +25,7 @@
 <span>&nbsp;☑️ <b>Working with:</b>&nbsp;&nbsp;</span>
 <a href="https://go.dev" target="_blank"> <img src="./img/go.svg" alt="go" height="25"/> </a>
 <a href="https://developer.mozilla.org/docs/JavaScript" target="_blank"> <img src="./img/js.svg" alt="js" height="25"/> </a>
-<a href="https://w3schools.com/sql" target="_blank"> <img src="./img/mysql.svg" alt="sql" height="25"/> </a>
+<a href="https://w3schools.com/sql" target="_blank"> <img src="./img/database.svg" alt="sql" height="25"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="./img/googlecloud.svg" alt="google cloud" height="25"/> </a>
 <span>&nbsp;&nbsp;&nbsp;☑️ <b>Learning:</b>&nbsp;&nbsp;</span>
 <a href="https://docs.aurelia.io" target="_blank"> <img src="./img/aurelia.svg" alt="aureliajs" height="25"/> </a>
