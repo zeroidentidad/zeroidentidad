@@ -42,12 +42,3 @@
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 🔐 **commits' verified signature** GPG key ```🆔 72274B90985C9107 ```
-
-<!--
-<img align="center" src="https://github.com/zeroidentidad/zeroidentidad/blob/output/github-contribution-grid-snake.svg" height="100%">
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroidentidad&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&custom_title=zeroidentidad" height="130">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=5&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript" height="130"/>  
-</p>
--->
