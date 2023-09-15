@@ -15,7 +15,7 @@
 </p>
 
 ```go
-👀 I'm a simple coder that like Golang and do stuffs on web.
+👀 I'm a simple programmer that like make stuffs. 
 🌐 Media: https://zeroidentidad.wordpress.com
 ```
 
