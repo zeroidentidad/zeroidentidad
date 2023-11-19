@@ -15,7 +15,7 @@
 </p>
 
 ```go
-👀 I like write code and make stuffs. 
+👍 I like write code and make stuffs. 
 🌐 Media: https://zeroidentidad.wordpress.com
 ```
 
