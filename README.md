@@ -28,7 +28,7 @@
 <a href="https://w3schools.com/sql" target="_blank"> <img src="./img/database.svg" alt="sql" height="25"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="./img/googlecloud.svg" alt="google cloud" height="25"/> </a>
 <span>&nbsp;&nbsp;&nbsp;☑️ <b>Learning:</b>&nbsp;&nbsp;</span>
-<a href="https://docs.aurelia.io" target="_blank"> <img src="./img/aurelia.svg" alt="aureliajs" height="25"/> </a>
+<a href="https://duolingo.com/profile/zeroidentidad" target="_blank"> <img src="./img/en.svg" alt="duolingo" height="25"/> </a>
  <a href="https://go.dev" target="_blank"> <img src="./img/go.svg" alt="go" height="25"/> </a>
 </p>
 
