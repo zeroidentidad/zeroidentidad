@@ -34,7 +34,9 @@
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-- ```Some stuff's list of current work and learning path``` [🗒️**Gists**](https://gist.github.com/zeroidentidad) | [⭐️**Stars**](https://github.com/zeroidentidad?tab=stars) | [🛡️ **g.dev**](https://g.dev/zeroidentidad)
+```Some stuff's list of current work and learning path```
+- [🗒️**Gists**](https://gist.github.com/zeroidentidad) | [⭐️**Stars**](https://github.com/zeroidentidad?tab=stars)
+- 🛡️[ [**g.dev**](https://g.dev/zeroidentidad), [**learn.microsoft.com**](https://learn.microsoft.com/users/zeroidentidad), [**freecodecamp.org**](https://freecodecamp.org/zeroidentidad), [**exercism.org**](https://exercism.org/profiles/zeroidentidad) ]
 
 - [🧡 [Wattpad] **Zero Golang Notes**...](https://www.wattpad.com/story/338549436-zero-golang-notes)
 - [💙 [Posts] **gophers-latam.github.io**...](https://gophers-latam.github.io/posts)
