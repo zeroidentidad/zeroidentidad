@@ -15,8 +15,8 @@
 </p>
 
 ```go
-🧙‍♂️ Go & JavaScript wizard 
-🌐 Media: https://zeroidentidad.wordpress.com
+- 𝗚𝗼 & 𝗝𝗦 ninja
+- Media: https://zeroidentidad.wordpress.com
 ```
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
