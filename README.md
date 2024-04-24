@@ -15,7 +15,7 @@
 </p>
 
 ```go
-- 𝗚𝗼 & 𝗝𝗦 ninja
+- 𝗚𝗼 & 𝗝𝗦 dev
 - Media: https://zeroidentidad.wordpress.com
 ```
 
