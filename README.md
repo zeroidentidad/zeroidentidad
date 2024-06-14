@@ -1,10 +1,10 @@
 
 <p align="center">
  <a href="https://discord.com/users/519937775651258379">
-     <img src="https://discord.c99.nl/widget/theme-1/519937775651258379.png" height="90px" />
+     <img src="https://discord.c99.nl/widget/theme-1/519937775651258379.png" height="85px" />
  </a>
  <a href="https://discord.gg/AEarh2kSvn">
-     <img src="./img/gophers-latam.png" height="90px">
+     <img src="./img/gophers-latam.png" height="85px">
  </a>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">  
 </p>
