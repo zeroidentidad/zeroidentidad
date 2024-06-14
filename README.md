@@ -9,7 +9,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">  
 </p>
 
-<p align="center">
+<p align="left">
   <img src="./img/hi.gif" width="18px">:shipit: &nbsp;&nbsp;
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
 </p>
