@@ -16,8 +16,9 @@
 
 ```go
 - 𝗚𝗼 & 𝗝𝗦 dev
-- Media: https://zeroidentidad.wordpress.com
 ```
+- Media: [zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com)
+
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
