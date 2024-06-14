@@ -14,10 +14,7 @@
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
 </p>
 
-```go
-- 𝗚𝗼 & 𝗝𝗦 dev
-```
-- Media: [zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com)
+`𝗚𝗼 & 𝗝𝗦 dev` ◉ Media: [zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com)
 
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
