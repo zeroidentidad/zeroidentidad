@@ -42,3 +42,9 @@
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 🔐 **commits' verified signature** GPG key ```🆔 72274B90985C9107 ```
+
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+[![zeroidentidad](https://img.shields.io/youtube/channel/subscribers/UCytoaxD4Ie0qmcWUMG7hOEQ?label=zeroidentidad&style=social)](https://www.youtube.com/zeroidentidad?sub_confirmation=1)
+[![Gophers LATAM](https://img.shields.io/youtube/channel/subscribers/UComaXHtmSckMH2O_tWMv7yw?label=Gophers%20LATAM&style=social)](https://youtube.com/@gophers-latam?sub_confirmation=1)
+
