@@ -48,3 +48,6 @@
 [![zeroidentidad](https://img.shields.io/youtube/channel/subscribers/UCytoaxD4Ie0qmcWUMG7hOEQ?label=zeroidentidad&style=social)](https://www.youtube.com/zeroidentidad?sub_confirmation=1)
 [![Gophers LATAM](https://img.shields.io/youtube/channel/subscribers/UComaXHtmSckMH2O_tWMv7yw?label=Gophers%20LATAM&style=social)](https://youtube.com/@gophers-latam?sub_confirmation=1)
 
+### community fund
+<a href="https://www.paypal.com/donate/?hosted_button_id=PCW4BRE2CZ9UY"><img src="./img/p-blue.svg" height="40"></a>
+<a href="https://github.com/sponsors/zeroidentidad?o=esb"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)" height="40"></a>
