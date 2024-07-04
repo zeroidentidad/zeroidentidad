@@ -34,10 +34,10 @@
 
 ```Some stuff's list of current work and learning path```
 - [🗒️**Gists**](https://gist.github.com/zeroidentidad) - [⭐️**Stars**](https://github.com/zeroidentidad?tab=stars)
-- ☑️[ [**Google Dev**](https://g.dev/zeroidentidad) - [**Microsoft Learn**](https://learn.microsoft.com/users/zeroidentidad) - [**FreeCodeCamp**](https://freecodecamp.org/zeroidentidad) - [**Exercism**](https://exercism.org/profiles/zeroidentidad) - [**HackerRank**](https://hackerrank.com/profile/zeroidentidad) - [**LeetCode**](https://leetcode.com/zeroidentidad) ]
+- ☑️[Exercises] [**Google Devs**](https://g.dev/zeroidentidad) - [**Microsoft Learn**](https://learn.microsoft.com/users/zeroidentidad) - [**FreeCodeCamp**](https://freecodecamp.org/zeroidentidad) - [**Exercism**](https://exercism.org/profiles/zeroidentidad) - [**HackerRank**](https://hackerrank.com/profile/zeroidentidad) - [**LeetCode**](https://leetcode.com/zeroidentidad) ]
 
-- [🧡[Wattpad] **zero golang notes**...](https://www.wattpad.com/story/338549436-zero-golang-notes)
-- [💙[Posts] **gophers-latam.github.io**...](https://gophers-latam.github.io/posts)
+- 🧡[Wattpad] [**zero golang notes**...](https://www.wattpad.com/story/338549436-zero-golang-notes)
+- 💙[Posts] [**gophers-latam.github.io**...](https://gophers-latam.github.io/posts)
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
