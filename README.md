@@ -14,7 +14,7 @@
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=zeroidentidad.visitor-badge">
 </p>
 
-`𝗚𝗼 & 𝗝𝗦 dev` ◉ Media: [zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com)
+`𝗚𝗼 & 𝗝𝗦 dev` ◉ media: [zeroidentidad.wordpress.com](https://zeroidentidad.wordpress.com) [![zeroidentidad](https://img.shields.io/youtube/channel/subscribers/UCytoaxD4Ie0qmcWUMG7hOEQ?label=zeroidentidad&style=social)](https://www.youtube.com/zeroidentidad?sub_confirmation=1)
 
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
@@ -45,9 +45,8 @@
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-[![zeroidentidad](https://img.shields.io/youtube/channel/subscribers/UCytoaxD4Ie0qmcWUMG7hOEQ?label=zeroidentidad&style=social)](https://www.youtube.com/zeroidentidad?sub_confirmation=1)
-[![Gophers LATAM](https://img.shields.io/youtube/channel/subscribers/UComaXHtmSckMH2O_tWMv7yw?label=Gophers%20LATAM&style=social)](https://youtube.com/@gophers-latam?sub_confirmation=1)
+**community fund**
 
-### community fund
-<a href="https://www.paypal.com/donate/?hosted_button_id=PCW4BRE2CZ9UY"><img src="./img/p-blue.svg" height="40"></a>
-<a href="https://github.com/sponsors/zeroidentidad?o=esb"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)" height="40"></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=PCW4BRE2CZ9UY"><img src="./img/p-blue.svg" height="22"></a>
+<a href="https://github.com/sponsors/zeroidentidad?o=esb"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)" height="22"></a>
+[![Gophers LATAM](https://img.shields.io/youtube/channel/subscribers/UComaXHtmSckMH2O_tWMv7yw?label=Gophers%20LATAM&style=social)](https://youtube.com/@gophers-latam?sub_confirmation=1)
