@@ -28,6 +28,7 @@
 <span>&nbsp;&nbsp;&nbsp;☑️ <b>Learning:</b>&nbsp;&nbsp;</span>
 <a href="https://duolingo.com/profile/zeroidentidad" target="_blank"> <img src="./img/en.svg" alt="duolingo" height="25"/> </a>
 <a href="https://go.dev" target="_blank"> <img src="./img/go.svg" alt="go" height="25"/> </a>
+<a href="https://htmx.org" target="_blank"> <img src="./img/htmx.svg" alt="htmx" height="25"/> </a>
 </p>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
