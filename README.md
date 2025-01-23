@@ -1,4 +1,3 @@
-
 <p align="center">
  <a href="https://discord.com/users/519937775651258379">
      <img src="https://discord.c99.nl/widget/theme-1/519937775651258379.png" height="85px" />
@@ -33,7 +32,7 @@
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-```Some stuff's list of current work and learning path```
+```Some stuffs related to work and learning experiences```
 
 | [🗒️**Gists**](https://gist.github.com/zeroidentidad) | [**Google Dev**](https://g.dev/zeroidentidad) | [**Microsoft Learn**](https://learn.microsoft.com/users/zeroidentidad) | [**FCC**](https://freecodecamp.org/zeroidentidad) |
 |---|---|---|---|
